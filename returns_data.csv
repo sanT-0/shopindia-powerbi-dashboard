@@ -1,0 +1,17 @@
+Return_ID,Order_ID,Return_Date,Return_Reason
+RET-001,1006,2024-01-25,Defective Product
+RET-002,1020,2024-02-28,Wrong Item Shipped
+RET-003,1027,2024-03-15,Customer Changed Mind
+RET-004,1054,2024-05-20,Defective Product
+RET-005,1043,2024-04-22,Size/Fit Issue
+RET-006,1062,2024-06-10,Defective Product
+RET-007,1050,2024-05-15,Customer Changed Mind
+RET-008,1068,2024-06-25,Wrong Item Shipped
+RET-009,1080,2024-07-22,Customer Changed Mind
+RET-010,1098,2024-09-08,Size/Fit Issue
+RET-011,1095,2024-08-30,Defective Product
+RET-012,1110,2024-10-08,Wrong Item Shipped
+RET-013,1116,2024-10-25,Customer Changed Mind
+RET-014,1126,2024-11-18,Defective Product
+RET-015,1132,2024-12-05,Size/Fit Issue
+RET-016,1140,2024-12-22,Wrong Item Shipped

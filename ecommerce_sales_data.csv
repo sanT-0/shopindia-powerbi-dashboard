@@ -1,0 +1,151 @@
+Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Customer_Name,Segment,Country,City,State,Region,Product_ID,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit,Payment_Mode
+1001,2024-01-03,2024-01-07,Standard Class,CUST-1001,Aarav Sharma,Consumer,India,Mumbai,Maharashtra,West,PROD-2001,Electronics,Phones,Samsung Galaxy S23,74999,1,0.00,18749.75,Online
+1002,2024-01-05,2024-01-08,Second Class,CUST-1002,Priya Patel,Corporate,India,Delhi,Delhi,North,PROD-2002,Furniture,Chairs,ErgoFlex Office Chair,12500,2,0.10,2250.00,COD
+1003,2024-01-05,2024-01-10,Standard Class,CUST-1003,Rohit Verma,Consumer,India,Bengaluru,Karnataka,South,PROD-2003,Office Supplies,Paper,A4 Copier Paper 5-Ream,1250,5,0.05,187.50,Cards
+1004,2024-01-08,2024-01-11,First Class,CUST-1004,Sneha Iyer,Home Office,India,Chennai,Tamil Nadu,South,PROD-2004,Electronics,Accessories,Logitech MX Master 3S,8999,1,0.00,3149.65,Online
+1005,2024-01-10,2024-01-14,Standard Class,CUST-1005,Amit Kumar,Consumer,India,Hyderabad,Telangana,South,PROD-2005,Furniture,Tables,Nilkamal Mega Center Table,6500,1,0.15,585.00,EMI
+1006,2024-01-12,2024-01-15,Second Class,CUST-1006,Meera Reddy,Corporate,India,Pune,Maharashtra,West,PROD-2006,Office Supplies,Binders,Classmate 3-Ring Binder Set,450,10,0.20,-90.00,Online
+1007,2024-01-14,2024-01-17,Standard Class,CUST-1007,Vikram Singh,Consumer,India,Jaipur,Rajasthan,North,PROD-2007,Electronics,Phones,iPhone 15 128GB,79999,1,0.00,19999.75,Cards
+1008,2024-01-15,2024-01-20,Standard Class,CUST-1008,Ananya Das,Consumer,India,Kolkata,West Bengal,East,PROD-2008,Furniture,Bookcases,Durian Senator Bookcase,15999,1,0.10,2879.82,COD
+1009,2024-01-17,2024-01-19,First Class,CUST-1009,Karan Mehta,Corporate,India,Ahmedabad,Gujarat,West,PROD-2009,Office Supplies,Storage,Cello Novelty Big Storage,899,3,0.00,269.70,Online
+1010,2024-01-19,2024-01-23,Standard Class,CUST-1010,Divya Nair,Home Office,India,Kochi,Kerala,South,PROD-2010,Electronics,Accessories,boAt Airdopes 141,1299,2,0.05,357.22,Online
+1011,2024-01-22,2024-01-25,Second Class,CUST-1011,Rajesh Gupta,Consumer,India,Lucknow,Uttar Pradesh,North,PROD-2011,Furniture,Chairs,Green Soul Jupiter High-Back,18999,1,0.00,5699.70,EMI
+1012,2024-01-24,2024-01-28,Standard Class,CUST-1012,Pooja Joshi,Corporate,India,Nagpur,Maharashtra,West,PROD-2012,Office Supplies,Art,Faber-Castell Colour Set,599,4,0.10,143.76,COD
+1013,2024-01-26,2024-01-29,First Class,CUST-1013,Siddharth Rao,Consumer,India,Indore,Madhya Pradesh,Central,PROD-2013,Electronics,Laptops,HP Pavilion 15 i5,62999,1,0.05,11339.82,Online
+1014,2024-01-28,2024-02-01,Standard Class,CUST-1014,Kavita Sharma,Home Office,India,Chandigarh,Chandigarh,North,PROD-2014,Furniture,Tables,IKEA LACK Side Table,1999,2,0.00,599.70,Cards
+1015,2024-02-01,2024-02-04,Second Class,CUST-1015,Arjun Malhotra,Consumer,India,Bhopal,Madhya Pradesh,Central,PROD-2015,Office Supplies,Envelopes,Classmate Brown Envelope Pack,199,10,0.15,253.72,COD
+1016,2024-02-03,2024-02-07,Standard Class,CUST-1001,Aarav Sharma,Consumer,India,Mumbai,Maharashtra,West,PROD-2016,Electronics,Phones,OnePlus 12R,42999,1,0.00,10749.75,Online
+1017,2024-02-05,2024-02-08,First Class,CUST-1016,Nisha Agarwal,Corporate,India,Surat,Gujarat,West,PROD-2017,Furniture,Furnishings,Curtain Set - Blackout 7ft,2499,3,0.10,449.82,Online
+1018,2024-02-07,2024-02-11,Standard Class,CUST-1017,Manish Tiwari,Consumer,India,Varanasi,Uttar Pradesh,North,PROD-2018,Office Supplies,Labels,Brother P-Touch Label Tape,699,2,0.00,209.70,COD
+1019,2024-02-10,2024-02-13,Second Class,CUST-1018,Shreya Banerjee,Home Office,India,Patna,Bihar,East,PROD-2019,Electronics,Accessories,Sony WH-1000XM5,28999,1,0.05,7829.73,Cards
+1020,2024-02-12,2024-02-16,Standard Class,CUST-1019,Deepak Yadav,Consumer,India,Ranchi,Jharkhand,East,PROD-2020,Furniture,Chairs,Wakefit Agilis Office Chair,9999,1,0.15,899.91,EMI
+1021,2024-02-15,2024-02-18,First Class,CUST-1020,Ritu Saxena,Corporate,India,Guwahati,Assam,East,PROD-2021,Office Supplies,Fasteners,Kangaroo Stapler Kit,349,5,0.00,104.70,COD
+1022,2024-02-17,2024-02-21,Standard Class,CUST-1003,Rohit Verma,Consumer,India,Bengaluru,Karnataka,South,PROD-2022,Electronics,Laptops,Lenovo IdeaPad Slim 3,45999,1,0.10,8279.82,Online
+1023,2024-02-20,2024-02-23,Second Class,CUST-1021,Aishwarya Menon,Consumer,India,Thiruvananthapuram,Kerala,South,PROD-2023,Furniture,Tables,HomeTown Niche Coffee Table,7999,1,0.00,2399.70,Cards
+1024,2024-02-22,2024-02-26,Standard Class,CUST-1022,Vivek Chauhan,Home Office,India,Dehradun,Uttarakhand,North,PROD-2024,Office Supplies,Paper,JK Easy Copier A4 Paper,549,8,0.05,131.76,COD
+1025,2024-02-25,2024-02-28,First Class,CUST-1023,Tanvi Deshmukh,Corporate,India,Nashik,Maharashtra,West,PROD-2025,Electronics,Accessories,Apple AirPods Pro 2,24999,1,0.00,8749.65,Online
+1026,2024-02-27,2024-03-02,Standard Class,CUST-1024,Harsh Pandey,Consumer,India,Allahabad,Uttar Pradesh,North,PROD-2026,Furniture,Bookcases,Amazon Basics 5-Shelf Bookcase,8499,1,0.10,1529.82,EMI
+1027,2024-03-01,2024-03-04,Second Class,CUST-1025,Swati Kulkarni,Consumer,India,Aurangabad,Maharashtra,West,PROD-2027,Office Supplies,Binders,Solo Ring Binder A4,299,6,0.20,-107.64,COD
+1028,2024-03-03,2024-03-07,Standard Class,CUST-1005,Amit Kumar,Consumer,India,Hyderabad,Telangana,South,PROD-2028,Electronics,Phones,Pixel 8a,52999,1,0.00,13249.75,Online
+1029,2024-03-05,2024-03-08,First Class,CUST-1026,Neha Bhatt,Home Office,India,Vadodara,Gujarat,West,PROD-2029,Furniture,Chairs,INNOWIN Jazz Mid-Back Chair,7499,2,0.05,1424.81,Cards
+1030,2024-03-08,2024-03-12,Standard Class,CUST-1027,Gaurav Mishra,Corporate,India,Kanpur,Uttar Pradesh,North,PROD-2030,Office Supplies,Art,Camlin Kokuyo Sketch Pen Set,249,8,0.00,74.70,COD
+1031,2024-03-10,2024-03-13,Second Class,CUST-1028,Pallavi Srinivasan,Consumer,India,Coimbatore,Tamil Nadu,South,PROD-2031,Electronics,Accessories,Zebronics Zeb-Warrior Keyboard,699,3,0.10,125.82,Online
+1032,2024-03-12,2024-03-16,Standard Class,CUST-1029,Ashish Kapoor,Consumer,India,Amritsar,Punjab,North,PROD-2032,Furniture,Tables,Godrej Interio Jack Table,11999,1,0.00,3599.70,EMI
+1033,2024-03-15,2024-03-18,First Class,CUST-1030,Bhavna Shah,Corporate,India,Rajkot,Gujarat,West,PROD-2033,Office Supplies,Storage,Nilkamal Stackable Organizer,1499,2,0.15,382.24,Cards
+1034,2024-03-17,2024-03-21,Standard Class,CUST-1007,Vikram Singh,Consumer,India,Jaipur,Rajasthan,North,PROD-2034,Electronics,Laptops,ASUS VivoBook 15,54999,1,0.00,13749.75,Online
+1035,2024-03-20,2024-03-23,Second Class,CUST-1031,Rachana Hegde,Home Office,India,Hubli,Karnataka,South,PROD-2035,Furniture,Furnishings,Solimo Microfiber Comforter,1999,2,0.10,359.82,COD
+1036,2024-03-22,2024-03-26,Standard Class,CUST-1032,Nikhil Jain,Consumer,India,Jodhpur,Rajasthan,North,PROD-2036,Office Supplies,Paper,Hammermill Premium Copy Paper,899,4,0.05,136.65,Online
+1037,2024-03-25,2024-03-28,First Class,CUST-1033,Sonal Thakur,Corporate,India,Shimla,Himachal Pradesh,North,PROD-2037,Electronics,Phones,Vivo V30 5G,33999,1,0.00,8499.75,Cards
+1038,2024-03-27,2024-03-31,Standard Class,CUST-1034,Prakash Nambiar,Consumer,India,Mysuru,Karnataka,South,PROD-2038,Furniture,Chairs,Wipro Adapt Mid-Back Chair,13499,1,0.10,2429.82,EMI
+1039,2024-03-30,2024-04-02,Second Class,CUST-1035,Usha Pillai,Consumer,India,Kozhikode,Kerala,South,PROD-2039,Office Supplies,Envelopes,Top Flight White Envelopes,149,15,0.00,44.70,COD
+1040,2024-04-01,2024-04-04,Standard Class,CUST-1036,Tarun Srivastava,Home Office,India,Noida,Uttar Pradesh,North,PROD-2040,Electronics,Accessories,JBL Tune 760NC,4999,1,0.05,1349.73,Online
+1041,2024-04-03,2024-04-07,First Class,CUST-1002,Priya Patel,Corporate,India,Delhi,Delhi,North,PROD-2041,Furniture,Tables,Urban Ladder Dulo Study Desk,14999,1,0.00,4499.70,Cards
+1042,2024-04-05,2024-04-09,Standard Class,CUST-1037,Aditi Mohan,Consumer,India,Vizag,Andhra Pradesh,South,PROD-2042,Office Supplies,Labels,Avery Easy Peel Labels,399,3,0.10,71.82,COD
+1043,2024-04-08,2024-04-11,Second Class,CUST-1038,Hemant Dubey,Consumer,India,Gwalior,Madhya Pradesh,Central,PROD-2043,Electronics,Laptops,Dell Inspiron 15 3520,47999,1,0.15,4319.91,Online
+1044,2024-04-10,2024-04-14,Standard Class,CUST-1039,Lata Krishnan,Corporate,India,Madurai,Tamil Nadu,South,PROD-2044,Furniture,Bookcases,Woodness Geneva Bookshelf,12999,1,0.00,3899.70,EMI
+1045,2024-04-12,2024-04-15,First Class,CUST-1040,Sameer Bose,Home Office,India,Siliguri,West Bengal,East,PROD-2045,Office Supplies,Fasteners,Kangaro Paper Punch,199,4,0.00,59.70,COD
+1046,2024-04-15,2024-04-19,Standard Class,CUST-1008,Ananya Das,Consumer,India,Kolkata,West Bengal,East,PROD-2046,Electronics,Phones,Realme GT 6T,29999,1,0.05,7499.75,Online
+1047,2024-04-17,2024-04-20,Second Class,CUST-1041,Kunal Rathore,Consumer,India,Udaipur,Rajasthan,North,PROD-2047,Furniture,Chairs,Featherlite Optima Chair,22999,1,0.00,6899.70,Cards
+1048,2024-04-20,2024-04-24,Standard Class,CUST-1042,Isha Sengupta,Corporate,India,Durgapur,West Bengal,East,PROD-2048,Office Supplies,Art,Doms Colouring Kit,799,3,0.10,143.82,COD
+1049,2024-04-22,2024-04-25,First Class,CUST-1043,Manoj Sethi,Consumer,India,Ludhiana,Punjab,North,PROD-2049,Electronics,Accessories,Anker PowerConf S3 Speaker,7499,1,0.00,2624.65,Online
+1050,2024-04-25,2024-04-29,Standard Class,CUST-1044,Geeta Chopra,Home Office,India,Bathinda,Punjab,North,PROD-2050,Furniture,Furnishings,Spaces Cotton Curtain Set,1799,2,0.15,229.87,EMI
+1051,2024-04-27,2024-04-30,Second Class,CUST-1009,Karan Mehta,Corporate,India,Ahmedabad,Gujarat,West,PROD-2051,Office Supplies,Paper,Xerox Vitality Multipurpose,649,6,0.00,194.70,COD
+1052,2024-05-01,2024-05-04,Standard Class,CUST-1045,Nandini Choudhury,Consumer,India,Bhubaneswar,Odisha,East,PROD-2052,Electronics,Laptops,Acer Aspire 5 A515,56999,1,0.00,14249.75,Online
+1053,2024-05-03,2024-05-07,First Class,CUST-1046,Sunil Tiwary,Consumer,India,Raipur,Chhattisgarh,Central,PROD-2053,Furniture,Tables,Nilkamal Shahenshah Dining,19999,1,0.10,3599.82,Cards
+1054,2024-05-05,2024-05-09,Standard Class,CUST-1047,Parveen Kaur,Corporate,India,Jalandhar,Punjab,North,PROD-2054,Office Supplies,Binders,Classmate D-Ring Binder,349,8,0.20,-167.52,Online
+1055,2024-05-08,2024-05-11,Second Class,CUST-1048,Ajay Naik,Home Office,India,Goa,Goa,West,PROD-2055,Electronics,Phones,Samsung Galaxy A55,29999,1,0.00,7499.75,COD
+1056,2024-05-10,2024-05-14,Standard Class,CUST-1049,Shweta Pandey,Consumer,India,Gorakhpur,Uttar Pradesh,North,PROD-2056,Furniture,Chairs,CELLBELL C83 Task Chair,5999,2,0.05,1139.81,EMI
+1057,2024-05-12,2024-05-15,First Class,CUST-1050,Ravi Shankar,Consumer,India,Tiruchirappalli,Tamil Nadu,South,PROD-2057,Office Supplies,Storage,Cello Multi-Utility Container,599,4,0.00,179.70,COD
+1058,2024-05-15,2024-05-19,Standard Class,CUST-1011,Rajesh Gupta,Consumer,India,Lucknow,Uttar Pradesh,North,PROD-2058,Electronics,Accessories,Mi Power Bank 3i 20000mAh,1499,2,0.10,269.82,Online
+1059,2024-05-17,2024-05-20,Second Class,CUST-1051,Chitra Mahajan,Corporate,India,Meerut,Uttar Pradesh,North,PROD-2059,Furniture,Tables,HomeTown Alba 6-Seater,24999,1,0.00,7499.70,Cards
+1060,2024-05-20,2024-05-24,Standard Class,CUST-1052,Vinod Saxena,Home Office,India,Agra,Uttar Pradesh,North,PROD-2060,Office Supplies,Paper,Double A Premium A4,749,5,0.05,142.31,COD
+1061,2024-05-22,2024-05-25,First Class,CUST-1013,Siddharth Rao,Consumer,India,Indore,Madhya Pradesh,Central,PROD-2061,Electronics,Phones,Nothing Phone 2a,23999,1,0.00,5999.75,Online
+1062,2024-05-25,2024-05-29,Standard Class,CUST-1053,Manju Verma,Consumer,India,Bareilly,Uttar Pradesh,North,PROD-2062,Furniture,Bookcases,DeckUp Meritus Book Shelf,9999,1,0.15,899.91,EMI
+1063,2024-05-27,2024-05-30,Second Class,CUST-1054,Anil Bhat,Corporate,India,Jammu,Jammu & Kashmir,North,PROD-2063,Office Supplies,Envelopes,Navneet Brown Envelopes,129,12,0.00,38.70,COD
+1064,2024-06-01,2024-06-04,Standard Class,CUST-1055,Radha Sundar,Consumer,India,Salem,Tamil Nadu,South,PROD-2064,Electronics,Accessories,Boat Rockerz 550 ANC,3999,1,0.10,1079.73,Online
+1065,2024-06-03,2024-06-07,First Class,CUST-1056,Pankaj Gupta,Home Office,India,Faridabad,Haryana,North,PROD-2065,Furniture,Chairs,Da Urban Merlion Chair,11999,1,0.00,3599.70,Cards
+1066,2024-06-05,2024-06-09,Standard Class,CUST-1057,Anita Rao,Consumer,India,Warangal,Telangana,South,PROD-2066,Office Supplies,Art,Staedtler Noris Pencil Box,449,5,0.05,85.28,COD
+1067,2024-06-08,2024-06-11,Second Class,CUST-1015,Arjun Malhotra,Consumer,India,Bhopal,Madhya Pradesh,Central,PROD-2067,Electronics,Laptops,MSI Modern 14 C12M,69999,1,0.00,17499.75,Online
+1068,2024-06-10,2024-06-14,Standard Class,CUST-1058,Rekha Kapoor,Corporate,India,Karnal,Haryana,North,PROD-2068,Furniture,Furnishings,Story@Home Blackout Curtain,1299,3,0.10,233.82,EMI
+1069,2024-06-12,2024-06-15,First Class,CUST-1059,Vishal Deshpande,Consumer,India,Solapur,Maharashtra,West,PROD-2069,Office Supplies,Fasteners,Max Stapler HD-10D,549,2,0.00,164.70,COD
+1070,2024-06-15,2024-06-19,Standard Class,CUST-1060,Sunita Rawat,Home Office,India,Haridwar,Uttarakhand,North,PROD-2070,Electronics,Phones,iQOO Z9 5G,18999,1,0.05,5129.73,Online
+1071,2024-06-17,2024-06-20,Second Class,CUST-1020,Ritu Saxena,Corporate,India,Guwahati,Assam,East,PROD-2071,Furniture,Tables,Wakefit Cleo Study Table,6999,1,0.00,2099.70,Cards
+1072,2024-06-20,2024-06-24,Standard Class,CUST-1061,Deepa Mathur,Consumer,India,Ajmer,Rajasthan,North,PROD-2072,Office Supplies,Labels,Brother DK Label Roll,1299,1,0.10,233.82,COD
+1073,2024-06-22,2024-06-25,First Class,CUST-1062,Mohit Aggarwal,Consumer,India,Aligarh,Uttar Pradesh,North,PROD-2073,Electronics,Accessories,Fire-Boltt Phoenix Smart Watch,2999,2,0.00,899.70,Online
+1074,2024-06-25,2024-06-29,Standard Class,CUST-1063,Seema Goswami,Corporate,India,Silchar,Assam,East,PROD-2074,Furniture,Chairs,Savya Home Apollo Chair,8999,1,0.15,809.91,EMI
+1075,2024-06-27,2024-06-30,Second Class,CUST-1064,Rahul Kashyap,Home Office,India,Dharamshala,Himachal Pradesh,North,PROD-2075,Office Supplies,Storage,Kuber Industries Organizer,799,3,0.05,113.86,COD
+1076,2024-07-01,2024-07-04,Standard Class,CUST-1004,Sneha Iyer,Home Office,India,Chennai,Tamil Nadu,South,PROD-2076,Electronics,Laptops,Apple MacBook Air M2,114999,1,0.00,28749.75,Online
+1077,2024-07-03,2024-07-07,First Class,CUST-1065,Aruna Rajan,Consumer,India,Ernakulam,Kerala,South,PROD-2077,Furniture,Tables,Flipkart Perfect Homes Atiu,4999,1,0.10,899.82,Cards
+1078,2024-07-05,2024-07-09,Standard Class,CUST-1066,Suresh Chand,Corporate,India,Moradabad,Uttar Pradesh,North,PROD-2078,Office Supplies,Paper,Century Star A4 Paper,499,10,0.00,149.70,COD
+1079,2024-07-08,2024-07-11,Second Class,CUST-1067,Jyoti Kumari,Consumer,India,Muzaffarpur,Bihar,East,PROD-2079,Electronics,Phones,Motorola Edge 50 Neo,22999,1,0.05,6209.73,Online
+1080,2024-07-10,2024-07-14,Standard Class,CUST-1068,Lalit Oberoi,Home Office,India,Shimoga,Karnataka,South,PROD-2080,Furniture,Furnishings,Cortina Eyelet Curtain,899,4,0.10,161.82,EMI
+1081,2024-07-12,2024-07-15,First Class,CUST-1069,Vandana Singh,Consumer,India,Bilaspur,Chhattisgarh,Central,PROD-2081,Office Supplies,Binders,Solo Executive Portfolio,1499,1,0.00,449.70,COD
+1082,2024-07-15,2024-07-19,Standard Class,CUST-1070,Santosh Pillai,Corporate,India,Thrissur,Kerala,South,PROD-2082,Electronics,Accessories,Anker Soundcore Life Q30,5999,1,0.00,2099.65,Online
+1083,2024-07-17,2024-07-20,Second Class,CUST-1021,Aishwarya Menon,Consumer,India,Thiruvananthapuram,Kerala,South,PROD-2083,Furniture,Chairs,Green Soul Zodiac Pro,16999,1,0.10,3059.82,Cards
+1084,2024-07-20,2024-07-24,Standard Class,CUST-1071,Ranjit Bora,Consumer,India,Jorhat,Assam,East,PROD-2084,Office Supplies,Art,Apsara Premium Pencils,199,10,0.05,75.81,COD
+1085,2024-07-22,2024-07-25,First Class,CUST-1072,Hema Chawla,Home Office,India,Rohtak,Haryana,North,PROD-2085,Electronics,Laptops,Lenovo ThinkPad E14 Gen5,72999,1,0.05,17519.76,Online
+1086,2024-07-25,2024-07-29,Standard Class,CUST-1073,Ankur Shukla,Corporate,India,Prayagraj,Uttar Pradesh,North,PROD-2086,Furniture,Tables,Wooden Street Ralph Desk,18999,1,0.00,5699.70,EMI
+1087,2024-07-27,2024-07-30,Second Class,CUST-1074,Sarita Rana,Consumer,India,Nainital,Uttarakhand,North,PROD-2087,Office Supplies,Envelopes,Premium Kraft Envelopes A4,249,8,0.00,74.70,COD
+1088,2024-08-01,2024-08-04,Standard Class,CUST-1006,Meera Reddy,Corporate,India,Pune,Maharashtra,West,PROD-2088,Electronics,Phones,OnePlus Nord CE 4,24999,1,0.10,6749.73,Online
+1089,2024-08-03,2024-08-07,First Class,CUST-1075,Devendra Jha,Consumer,India,Dhanbad,Jharkhand,East,PROD-2089,Furniture,Bookcases,Forzza Ronald 3-Shelf,5999,1,0.00,1799.70,Cards
+1090,2024-08-05,2024-08-09,Standard Class,CUST-1076,Kirti Mathews,Home Office,India,Mangalore,Karnataka,South,PROD-2090,Office Supplies,Fasteners,Rapid Desktop Stapler,399,3,0.05,56.86,COD
+1091,2024-08-08,2024-08-11,Second Class,CUST-1077,Yash Purohit,Consumer,India,Bikaner,Rajasthan,North,PROD-2091,Electronics,Accessories,Realme Buds Air 5 Pro,3999,2,0.00,1199.70,Online
+1092,2024-08-10,2024-08-14,Standard Class,CUST-1078,Madhuri Nene,Corporate,India,Kolhapur,Maharashtra,West,PROD-2092,Furniture,Chairs,HOF Professional Chair,14999,1,0.10,2699.82,EMI
+1093,2024-08-12,2024-08-15,First Class,CUST-1079,Sudhir Bakshi,Consumer,India,Ambala,Haryana,North,PROD-2093,Office Supplies,Storage,Amazon Basics File Cabinet,2499,1,0.00,749.70,COD
+1094,2024-08-15,2024-08-19,Standard Class,CUST-1080,Archana Prasad,Home Office,India,Sambalpur,Odisha,East,PROD-2094,Electronics,Laptops,Asus ROG Strix G16,129999,1,0.00,32499.75,Online
+1095,2024-08-17,2024-08-20,Second Class,CUST-1012,Pooja Joshi,Corporate,India,Nagpur,Maharashtra,West,PROD-2095,Furniture,Tables,Durian Feng Study Table,8999,1,0.15,809.91,Cards
+1096,2024-08-20,2024-08-24,Standard Class,CUST-1081,Girish Menon,Consumer,India,Kannur,Kerala,South,PROD-2096,Office Supplies,Paper,UNISTAT A4 Laser Paper,599,6,0.00,179.70,COD
+1097,2024-08-22,2024-08-25,First Class,CUST-1082,Padma Lakshmi,Consumer,India,Tirunelveli,Tamil Nadu,South,PROD-2097,Electronics,Phones,Redmi Note 13 Pro+ 5G,31999,1,0.00,7999.75,Online
+1098,2024-08-25,2024-08-29,Standard Class,CUST-1083,Om Prakash,Corporate,India,Gorakhpur,Uttar Pradesh,North,PROD-2098,Furniture,Furnishings,Kuber Industries Door Mat Set,499,5,0.10,89.82,EMI
+1099,2024-08-27,2024-08-30,Second Class,CUST-1084,Shaila Devi,Home Office,India,Bhagalpur,Bihar,East,PROD-2099,Office Supplies,Art,Sakura Pigma Micron Set,1299,1,0.00,389.70,COD
+1100,2024-09-01,2024-09-04,Standard Class,CUST-1010,Divya Nair,Home Office,India,Kochi,Kerala,South,PROD-2100,Electronics,Accessories,Logitech C920 HD Webcam,8499,1,0.05,2294.73,Online
+1101,2024-09-03,2024-09-07,First Class,CUST-1085,Kishore Reddy,Consumer,India,Nellore,Andhra Pradesh,South,PROD-2001,Samsung Galaxy S23,Electronics,Phones,Samsung Galaxy S23,74999,1,0.10,20249.73,Cards
+1102,2024-09-05,2024-09-09,Standard Class,CUST-1086,Malini Basu,Corporate,India,Howrah,West Bengal,East,PROD-2041,Furniture,Tables,Urban Ladder Dulo Study Desk,14999,2,0.00,4499.70,COD
+1103,2024-09-08,2024-09-11,Second Class,CUST-1087,Jitendra Nagar,Consumer,India,Ujjain,Madhya Pradesh,Central,PROD-2013,Electronics,Laptops,HP Pavilion 15 i5,62999,1,0.15,5669.91,Online
+1104,2024-09-10,2024-09-14,Standard Class,CUST-1014,Kavita Sharma,Home Office,India,Chandigarh,Chandigarh,North,PROD-2011,Furniture,Chairs,Green Soul Jupiter High-Back,18999,1,0.00,5699.70,EMI
+1105,2024-09-12,2024-09-15,First Class,CUST-1088,Bharti Ahluwalia,Consumer,India,Patiala,Punjab,North,PROD-2025,Electronics,Accessories,Apple AirPods Pro 2,24999,2,0.05,6749.73,Cards
+1106,2024-09-15,2024-09-19,Standard Class,CUST-1089,Dinesh Solanki,Corporate,India,Bhavnagar,Gujarat,West,PROD-2033,Office Supplies,Storage,Nilkamal Stackable Organizer,1499,3,0.00,449.70,COD
+1107,2024-09-17,2024-09-20,Second Class,CUST-1030,Bhavna Shah,Corporate,India,Rajkot,Gujarat,West,PROD-2017,Furniture,Furnishings,Curtain Set - Blackout 7ft,2499,2,0.10,449.82,Online
+1108,2024-09-20,2024-09-24,Standard Class,CUST-1090,Pushpa Lal,Home Office,India,Dehradun,Uttarakhand,North,PROD-2040,Electronics,Accessories,JBL Tune 760NC,4999,1,0.00,1749.65,Cards
+1109,2024-09-22,2024-09-25,First Class,CUST-1091,Sachin Tendulkar,Consumer,India,Mumbai,Maharashtra,West,PROD-2007,Electronics,Phones,iPhone 15 128GB,79999,1,0.00,19999.75,Online
+1110,2024-09-25,2024-09-29,Standard Class,CUST-1092,Radhika Apte,Consumer,India,Pune,Maharashtra,West,PROD-2023,Furniture,Tables,HomeTown Niche Coffee Table,7999,2,0.10,1439.82,EMI
+1111,2024-09-27,2024-09-30,Second Class,CUST-1093,Vijay Mallya,Corporate,India,Bengaluru,Karnataka,South,PROD-2022,Electronics,Laptops,Lenovo IdeaPad Slim 3,45999,1,0.05,12419.73,COD
+1112,2024-10-01,2024-10-04,Standard Class,CUST-1016,Nisha Agarwal,Corporate,India,Surat,Gujarat,West,PROD-2030,Office Supplies,Art,Camlin Kokuyo Sketch Pen Set,249,12,0.00,74.70,Online
+1113,2024-10-03,2024-10-07,First Class,CUST-1094,Aakash Bhardwaj,Consumer,India,Meerut,Uttar Pradesh,North,PROD-2034,Electronics,Laptops,ASUS VivoBook 15,54999,1,0.10,14849.73,Cards
+1114,2024-10-05,2024-10-09,Standard Class,CUST-1095,Jaya Prada,Home Office,India,Lucknow,Uttar Pradesh,North,PROD-2065,Furniture,Chairs,Da Urban Merlion Chair,11999,1,0.00,3599.70,COD
+1115,2024-10-08,2024-10-11,Second Class,CUST-1096,Kabir Khan,Consumer,India,Delhi,Delhi,North,PROD-2028,Electronics,Phones,Pixel 8a,52999,1,0.00,13249.75,Online
+1116,2024-10-10,2024-10-14,Standard Class,CUST-1097,Meghna Gulzar,Corporate,India,Mumbai,Maharashtra,West,PROD-2053,Furniture,Tables,Nilkamal Shahenshah Dining,19999,1,0.15,1799.91,EMI
+1117,2024-10-12,2024-10-15,First Class,CUST-1098,Shreyas Iyer,Consumer,India,Mumbai,Maharashtra,West,PROD-2003,Office Supplies,Paper,A4 Copier Paper 5-Ream,1250,3,0.00,375.00,Cards
+1118,2024-10-15,2024-10-19,Standard Class,CUST-1029,Ashish Kapoor,Consumer,India,Amritsar,Punjab,North,PROD-2037,Electronics,Phones,Vivo V30 5G,33999,1,0.10,9179.73,COD
+1119,2024-10-17,2024-10-20,Second Class,CUST-1099,Deepika Padukone,Home Office,India,Bengaluru,Karnataka,South,PROD-2076,Electronics,Laptops,Apple MacBook Air M2,114999,1,0.00,28749.75,Online
+1120,2024-10-20,2024-10-24,Standard Class,CUST-1100,Ranveer Singh,Consumer,India,Mumbai,Maharashtra,West,PROD-2047,Furniture,Chairs,Featherlite Optima Chair,22999,2,0.05,8739.62,Cards
+1121,2024-10-22,2024-10-25,First Class,CUST-1041,Kunal Rathore,Consumer,India,Udaipur,Rajasthan,North,PROD-2055,Electronics,Phones,Samsung Galaxy A55,29999,1,0.00,7499.75,EMI
+1122,2024-10-25,2024-10-29,Standard Class,CUST-1045,Nandini Choudhury,Consumer,India,Bhubaneswar,Odisha,East,PROD-2052,Electronics,Laptops,Acer Aspire 5 A515,56999,1,0.10,15389.73,Online
+1123,2024-10-27,2024-10-30,Second Class,CUST-1050,Ravi Shankar,Consumer,India,Tiruchirappalli,Tamil Nadu,South,PROD-2057,Office Supplies,Storage,Cello Multi-Utility Container,599,5,0.00,179.70,COD
+1124,2024-11-01,2024-11-04,Standard Class,CUST-1001,Aarav Sharma,Consumer,India,Mumbai,Maharashtra,West,PROD-2001,Electronics,Phones,Samsung Galaxy S23,74999,2,0.05,20249.73,Online
+1125,2024-11-03,2024-11-07,First Class,CUST-1003,Rohit Verma,Consumer,India,Bengaluru,Karnataka,South,PROD-2085,Electronics,Laptops,Lenovo ThinkPad E14 Gen5,72999,1,0.00,18249.75,Cards
+1126,2024-11-05,2024-11-09,Standard Class,CUST-1025,Tanvi Deshmukh,Corporate,India,Nashik,Maharashtra,West,PROD-2092,Furniture,Chairs,HOF Professional Chair,14999,1,0.10,2699.82,EMI
+1127,2024-11-08,2024-11-11,Second Class,CUST-1033,Sonal Thakur,Corporate,India,Shimla,Himachal Pradesh,North,PROD-2078,Office Supplies,Paper,Century Star A4 Paper,499,8,0.00,149.70,COD
+1128,2024-11-10,2024-11-14,Standard Class,CUST-1040,Sameer Bose,Home Office,India,Siliguri,West Bengal,East,PROD-2094,Electronics,Laptops,Asus ROG Strix G16,129999,1,0.15,11699.91,Online
+1129,2024-11-12,2024-11-15,First Class,CUST-1055,Radha Sundar,Consumer,India,Salem,Tamil Nadu,South,PROD-2097,Electronics,Phones,Redmi Note 13 Pro+ 5G,31999,1,0.00,7999.75,Cards
+1130,2024-11-15,2024-11-19,Standard Class,CUST-1060,Sunita Rawat,Home Office,India,Haridwar,Uttarakhand,North,PROD-2086,Furniture,Tables,Wooden Street Ralph Desk,18999,1,0.05,5129.73,COD
+1131,2024-11-17,2024-11-20,Second Class,CUST-1070,Santosh Pillai,Corporate,India,Thrissur,Kerala,South,PROD-2082,Electronics,Accessories,Anker Soundcore Life Q30,5999,2,0.00,2099.65,Online
+1132,2024-11-20,2024-11-24,Standard Class,CUST-1077,Yash Purohit,Consumer,India,Bikaner,Rajasthan,North,PROD-2091,Electronics,Accessories,Realme Buds Air 5 Pro,3999,3,0.10,1079.73,EMI
+1133,2024-11-22,2024-11-25,First Class,CUST-1082,Padma Lakshmi,Consumer,India,Tirunelveli,Tamil Nadu,South,PROD-2061,Electronics,Phones,Nothing Phone 2a,23999,1,0.00,5999.75,Cards
+1134,2024-11-25,2024-11-29,Standard Class,CUST-1087,Jitendra Nagar,Consumer,India,Ujjain,Madhya Pradesh,Central,PROD-2043,Electronics,Laptops,Dell Inspiron 15 3520,47999,1,0.00,11999.75,COD
+1135,2024-11-27,2024-11-30,Second Class,CUST-1092,Radhika Apte,Consumer,India,Pune,Maharashtra,West,PROD-2038,Furniture,Chairs,Wipro Adapt Mid-Back Chair,13499,1,0.10,2429.82,Online
+1136,2024-12-01,2024-12-04,Standard Class,CUST-1005,Amit Kumar,Consumer,India,Hyderabad,Telangana,South,PROD-2046,Electronics,Phones,Realme GT 6T,29999,1,0.15,2699.91,Cards
+1137,2024-12-03,2024-12-07,First Class,CUST-1019,Deepak Yadav,Consumer,India,Ranchi,Jharkhand,East,PROD-2089,Furniture,Bookcases,Forzza Ronald 3-Shelf,5999,2,0.00,1799.70,EMI
+1138,2024-12-05,2024-12-09,Standard Class,CUST-1028,Pallavi Srinivasan,Consumer,India,Coimbatore,Tamil Nadu,South,PROD-2064,Electronics,Accessories,Boat Rockerz 550 ANC,3999,1,0.05,1079.73,COD
+1139,2024-12-08,2024-12-11,Second Class,CUST-1036,Tarun Srivastava,Home Office,India,Noida,Uttar Pradesh,North,PROD-2067,Electronics,Laptops,MSI Modern 14 C12M,69999,1,0.10,18899.73,Online
+1140,2024-12-10,2024-12-14,Standard Class,CUST-1044,Geeta Chopra,Home Office,India,Bathinda,Punjab,North,PROD-2050,Furniture,Furnishings,Spaces Cotton Curtain Set,1799,3,0.00,539.70,Cards
+1141,2024-12-12,2024-12-15,First Class,CUST-1052,Vinod Saxena,Home Office,India,Agra,Uttar Pradesh,North,PROD-2060,Office Supplies,Paper,Double A Premium A4,749,4,0.00,224.70,COD
+1142,2024-12-15,2024-12-19,Standard Class,CUST-1062,Mohit Aggarwal,Consumer,India,Aligarh,Uttar Pradesh,North,PROD-2073,Electronics,Accessories,Fire-Boltt Phoenix Smart Watch,2999,3,0.05,809.73,Online
+1143,2024-12-17,2024-12-20,Second Class,CUST-1072,Hema Chawla,Home Office,India,Rohtak,Haryana,North,PROD-2085,Electronics,Laptops,Lenovo ThinkPad E14 Gen5,72999,1,0.00,18249.75,EMI
+1144,2024-12-20,2024-12-24,Standard Class,CUST-1080,Archana Prasad,Home Office,India,Sambalpur,Odisha,East,PROD-2094,Electronics,Laptops,Asus ROG Strix G16,129999,1,0.10,35099.73,Cards
+1145,2024-12-22,2024-12-25,First Class,CUST-1088,Bharti Ahluwalia,Consumer,India,Patiala,Punjab,North,PROD-2007,Electronics,Phones,iPhone 15 128GB,79999,1,0.00,19999.75,COD
+1146,2024-12-25,2024-12-29,Standard Class,CUST-1096,Kabir Khan,Consumer,India,Delhi,Delhi,North,PROD-2034,Electronics,Laptops,ASUS VivoBook 15,54999,1,0.00,13749.75,Online
+1147,2024-12-27,2024-12-30,Second Class,CUST-1100,Ranveer Singh,Consumer,India,Mumbai,Maharashtra,West,PROD-2001,Electronics,Phones,Samsung Galaxy S23,74999,1,0.10,20249.73,Cards
+1148,2024-12-29,2025-01-02,Standard Class,CUST-1007,Vikram Singh,Consumer,India,Jaipur,Rajasthan,North,PROD-2032,Furniture,Tables,Godrej Interio Jack Table,11999,1,0.00,3599.70,EMI
+1149,2024-12-30,2025-01-03,First Class,CUST-1023,Tanvi Deshmukh,Corporate,India,Nashik,Maharashtra,West,PROD-2019,Electronics,Accessories,Sony WH-1000XM5,28999,1,0.05,7829.73,Online
+1150,2024-12-31,2025-01-04,Standard Class,CUST-1043,Manoj Sethi,Consumer,India,Ludhiana,Punjab,North,PROD-2049,Electronics,Accessories,Anker PowerConf S3 Speaker,7499,2,0.00,2624.65,COD
